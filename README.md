@@ -1,1 +1,1 @@
-# simple-kafka-in-scala
+# simple-kafka(Producer and Consumer)-in-scala
