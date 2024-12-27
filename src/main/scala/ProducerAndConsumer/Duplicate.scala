@@ -7,7 +7,7 @@ val value = "pooja"
 
 //  for(i <- 0 to value.length-1)
 //    {
-      //println(i)
+      //println(i);
       if(value.charAt(0) == value.charAt(0+1))
         {
           println("The values " +value.charAt(0)+ " and " +value.charAt(0+1))
